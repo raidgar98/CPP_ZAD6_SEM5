@@ -1,0 +1,12 @@
+applocal/
+*.bin
+Debug/
+*.exe
+*.idb
+*.log
+*.obj
+*.pdb
+*.sln
+*.vcxproj
+x64/
+.vs/
